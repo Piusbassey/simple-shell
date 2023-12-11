@@ -1,3 +1,5 @@
+#include "cat.h"
+
 /**
  * aux_help_p - Help information for the builtin help.
  * Return: no return
